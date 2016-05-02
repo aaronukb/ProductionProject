@@ -1,6 +1,6 @@
 Hello,
 
-thank you for downloading Obaju, responsive bootstrap e-commerce template.
+This is the project developed using core PHP and style tools like HTML, CSS, Javascript, jQuery etc.
 
 ## 22 pages included: ##
 
@@ -59,22 +59,7 @@ Apart from Bootstrap JS components majority of JS is located in /js/front.js. In
 
 Google maps are used on the contact page. If you need just to show location of the company on the map, the only neccessary thing is to change coordinates in the header of contact.html. For further settings and possibilities please consult [Google Maps API documentation](https://developers.google.com/maps/documentation/javascript/).
 
-Thank you for downloading!
-
-ondrique
-
-If having some troubles, let me know at ahoj@ondrejsvestka.cz - I will try to help. Also if some custom modifications etc. needed - let me know.
-
-## Credits ##
-
-- Bootstrap 3.2 - [http://getbootstrap.com/](http://getbootstrap.com/)
-- Photos for demo purposes [IM FREE](http://www.imcreator.com/free)
-- Font awesome - ([http://fontawesome.io/icons/](http://fontawesome.io/icons/))
-- Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
-- jQuery Waypoints ([http://imakewebthings.com/jquery-waypoints/](http://imakewebthings.com/jquery-waypoints/))
-- animate.css ([http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/))
-- Modernizr ([http://modernizr.com/](http://modernizr.com/)) 
-- Bootstrap Hover Dropdown plugin ([https://github.com/CWSpear/bootstrap-hover-dropdown](https://github.com/CWSpear/bootstrap-hover-dropdown))
+Thank you 
 
 
 
