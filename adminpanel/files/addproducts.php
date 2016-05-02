@@ -15,7 +15,7 @@ include ("controller/product_controller.php");
         <link rel="stylesheet" href="/resources/demos/style.css">
         <legend class="text-center header">Add Product</legend>
         <form  id="addproducts" enctype="multipart/form-data"  action="" method="post" class="form-horizontal">
-            <div><h4><?php echo $errmsz; ?><h4></div>
+            <div><h4 class="text-center"><?php echo $errmsz; ?><h4></div>
             <fieldset>
                 <div class="form-group">
                     <div class="col-md-4 col-md-offset-1">
