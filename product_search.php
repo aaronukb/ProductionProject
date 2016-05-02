@@ -41,3 +41,13 @@
 <?php
 include("includes/footer.php");
 ?>
+
+<style type="text/css">
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #f0f0f0;
+}
+</style>
