@@ -1,9 +1,14 @@
-<?php 
-if(!isset($_SESSION['first_name']))
-{
-@header ('location:index.php?action=userlogin');
+<?php
+if (empty($_SESSION['first_name'])) {
+    @header('Location: userlogin.php');
+      echo "<script type= 'text/javascript'>
+      alert('You must login to access this page.');
+      </script>";
+    echo '<script type="text/javascript">' . "\n"; 
+    echo 'window.location="http://localhost/Projectsite/index.php?action=userlogin";'; 
+    echo '</script>';
+    exit;
 }
-?>
 <?php
 $id = $_SESSION['id'];
 $user = new User();
